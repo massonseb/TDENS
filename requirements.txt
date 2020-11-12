@@ -16,7 +16,7 @@ pytz==2020.4              # via pandas
 six==1.15.0               # via cycler, python-dateutil
 xarray==0.16.1            # via -r requirements.in
 scipy==1.5.3
-cartopy==0.17.0
+#cartopy==0.17.0
 pygeos==0.8
 cython==0.29.21
 shapely==1.7.1
