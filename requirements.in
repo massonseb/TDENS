@@ -1,0 +1,5 @@
+numpy
+xarray
+matplotlib
+cartopy
+hvplot
