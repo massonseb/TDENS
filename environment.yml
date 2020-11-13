@@ -10,3 +10,5 @@ dependencies:
   - matplotlib
   - cartopy
   - eofs
+  - pyviz
+  - hvplot
