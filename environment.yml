@@ -1,9 +1,8 @@
 name: example-environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python
   - numpy
-  - xarray
-  - matplotlib
-  - cartopy
+
