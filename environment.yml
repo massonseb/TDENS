@@ -12,3 +12,4 @@ dependencies:
   - eofs
   - hvplot
   - geoviews
+  - pyproj
