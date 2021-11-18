@@ -3,13 +3,13 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9 # for pyproj
+  - python
   - numpy
   - scipy
   - xarray=0.18.2 # see https://github.com/ajdawson/eofs/issues/123
   - matplotlib
   - cartopy
   - eofs
-  - hvplot=0.7.3 
+  - hvplot
   - geoviews
   - pyproj
