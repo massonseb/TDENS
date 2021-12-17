@@ -10,6 +10,6 @@ dependencies:
   - matplotlib
   - cartopy
   - eofs
-  - hvplot
+  #- hvplot
   - geoviews
   - pyproj
