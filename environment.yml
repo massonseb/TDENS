@@ -13,3 +13,5 @@ dependencies:
   #- hvplot
   - geoviews
   - pyproj
+  - pip
+    - notebook-as-pdf
