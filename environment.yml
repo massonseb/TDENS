@@ -15,4 +15,4 @@ dependencies:
   - pyproj
   - pip
   - pip:
-    - notebook-as-pdf
+    - notebook-as-pdf==0.5.0
