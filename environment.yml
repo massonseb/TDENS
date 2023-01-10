@@ -9,7 +9,8 @@ dependencies:
   - xarray
   - matplotlib
   - cartopy
-  - eofs=dev
+  - xeofs
+  #- eofs
   #- hvplot
   - geoviews
   - pyproj
