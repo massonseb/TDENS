@@ -6,11 +6,12 @@ dependencies:
   - python
   - numpy
   - scipy
-  - xarray
+  #- xarray
+  - xarray=0.18.2 # see https://github.com/ajdawson/eofs/issues/123
   - matplotlib
   - cartopy
-  - xeofs
-  #- eofs
+  #- xeofs
+  - eofs
   #- hvplot
   - geoviews
   - pyproj
