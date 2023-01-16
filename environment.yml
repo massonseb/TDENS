@@ -12,9 +12,9 @@ dependencies:
   - cartopy
   #- xeofs
   - eofs
-  #- hvplot
-  - geoviews
-  - pyproj
+  - hvplot
+  #- geoviews
+  #- pyproj
 #  - pip
 #  - pip:
 #    - notebook-as-pdf==0.5.0
