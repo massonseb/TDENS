@@ -13,8 +13,8 @@ dependencies:
   #- xeofs
   - eofs
   - hvplot
-  #- geoviews
-  #- pyproj
+  - geoviews
+  - pyproj
 #  - pip
 #  - pip:
 #    - notebook-as-pdf==0.5.0
