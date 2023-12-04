@@ -13,7 +13,7 @@ dependencies:
   #- xeofs
   - eofs
   - hvplot
-  - pooch
+  #- pooch
   #- geoviews
   #- pyproj
 #  - pip
