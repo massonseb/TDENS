@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - scipy
   #- xarray
-  - xarray=2023.12.0  #  =0.18.2 # see https://github.com/ajdawson/eofs/issues/123
+  - xarray=2014.10.0  # 2023.12.0
   - matplotlib
   - cartopy
   #- xeofs
