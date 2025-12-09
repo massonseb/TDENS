@@ -16,9 +16,6 @@
 # TD4
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/massonseb/TDENS.git/HEAD?filepath=TD4.ipynb)
 
-# IOD
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/massonseb/TDENS.git/HEAD?filepath=IOD.ipynb)
-
 # Nino 1997
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/massonseb/TDENS.git/HEAD?filepath=nino1997.ipynb)
 
